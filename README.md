@@ -1,2 +1,2 @@
 # Knapsack_Problem
-I solved knapsack problem using the random search and steepest ascent hill climbing algorithm and then i run some experiments to see how data changed when the number of iterations is smaller or bigger.
+I have addressed the knapsack problem utilizing both random search and steepest ascent hill climbing algorithms. Following that, I conducted a series of experiments to observe the variations in data as the number of iterations varied. Additionally, I have attached a document template named "Documentation Report" wherein I have documented the resulting data comprehensively.
